@@ -9,7 +9,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: s546a7b
+  background-color: red inherit;
 }
 .NaviBar ul{
   display: flex;
