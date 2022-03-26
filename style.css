@@ -8,6 +8,8 @@
 .NaviBar{
   display: flex;
   justify-content: center;
+  align-items: center;
+  background-color: s546a7b
 }
 .NaviBar ul{
   display: flex;
