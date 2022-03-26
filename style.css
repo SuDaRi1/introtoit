@@ -1,0 +1,16 @@
+*{
+  margin: 1;
+  padding: 1;
+  box-sizing: content-box;
+}
+
+/* NaviBar*/
+.NaviBar{
+  display: flex;
+  justify-content: center;
+}
+.NaviBar ul{
+  display: flex;
+  list-style: none;
+  margin: 30px 0px;
+}
