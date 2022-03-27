@@ -17,5 +17,5 @@
 .NaviBar ul{
   display: flex;
   list-style: none;
-  margin: 36px 1px;
+  margin: 36px 0px;
 }
