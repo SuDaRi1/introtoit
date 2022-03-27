@@ -36,7 +36,7 @@
 }
 
 /*Personal Information*/
-#home Personal information{
+#Personal information{
   display: flex;
   flex-direction: column;
   background-color: rgba(0, 0, 0, 0.5);
@@ -45,7 +45,7 @@
   align-items: center;
   color: white;
 }
-#home: Personal information{
+#Personal information{
   content:"";
   position: absolute;
   top: 0;
