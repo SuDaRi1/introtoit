@@ -1,0 +1,50 @@
+*{
+  margin: 1;
+  padding: 1;
+  box-sizing: content-box;
+}
+
+/* NaviBar*/
+.NaviBar{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0.5);
+  position: sticky;
+  top: 0;
+
+}
+.NaviBar ul{
+  display: flex;
+  list-style: none;
+  margin: 36px 0px;
+}
+.navbar.ul li{
+  font-family: century;
+  font-weight :bold;
+}
+.NaviBar ul li a{
+  text-decoration: none;
+  color: white;
+  padding: 8px 25px;
+  transition: all .5s ease;
+}
+.NaviBar ul li a:hover{
+  background-color: white;
+  color: black;
+  box-shadow: 0 0 10px grey;
+}
+
+/*Personal Information*/
+#home{
+  display: flex;
+  flex-direction: column;
+}
+#home: before{
+  content:"";
+  position: absolute;
+  top: 0;
+  background: url('srilanka1.jpeg') no-repeat center center/cover;
+  height: 901px;
+  width: 100%;
+}
